@@ -70,12 +70,10 @@ Hi, I’m @Wubpooz a Computer Science student at Paris-Saclay University and thi
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
             </td>
         </tr>
-        
-      </tr>
-    </tbody>  
+   </tbody> 
   
   
-    <tbody>
+  <tbody>
       <tr valign="top">
           <td width="456.922px">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/></td>
