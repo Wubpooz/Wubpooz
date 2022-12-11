@@ -12,6 +12,8 @@ Hi, I’m @Wubpooz a Computer Science student at Paris-Saclay University and thi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
   <img height="180em" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Wubpooz&theme=vision-friendly-dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
     
+      
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/> 
     
  <!--<img draggable="false" id="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">-->
  
@@ -28,11 +30,13 @@ Hi, I’m @Wubpooz a Computer Science student at Paris-Saclay University and thi
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img style="background-color: white;" align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
   <img style="background-color: white;" align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
-  </div> 
+  
+  
+  <!-- atl icon <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX">-->
+</div> 
  
 
-<div align="center" >
+<!--<div align="center" >
 <table>
     <tbody>
         <tr valign="top">
@@ -71,14 +75,7 @@ Hi, I’m @Wubpooz a Computer Science student at Paris-Saclay University and thi
             </td>
         </tr>
    </tbody> 
-  
-  
-  <tbody>
-      <tr valign="top">
-          <td width="456.922px">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/></td>
-  </tbody> 
-</table>
+</table>-->
 
 </div>  
   
