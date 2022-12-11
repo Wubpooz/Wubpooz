@@ -12,7 +12,7 @@ Hi, I’m @Wubpooz a Computer Science student at Paris-Saclay University and thi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
   <img height="180em" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Wubpooz&theme=vision-friendly-dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
     
-      
+&nbsp;    
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/> 
     
  <!--<img draggable="false" id="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">-->
