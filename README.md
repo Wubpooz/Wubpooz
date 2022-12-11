@@ -13,18 +13,18 @@ Hi, I’m @Wubpooz a Computer Science student at Paris-Saclay University and thi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/>
     
 </div>
-<div style="display: inline_block;"><br>
+<div style="display: inline_block;"><br>    <!-- style="background-color: white;" isn't owrking for now since github sanitizes any CSS ; might work in the future -->
   
-  <img align="center" alt="LateX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" >
+  <img style="background-color: white;" align="center" alt="LateX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" >
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img style="background-color: white;" align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
+  <img style="background-color: white;" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img style="background-color: white;" align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
-  <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img style="background-color: white;" align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
+  <img style="background-color: white;" align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </div>
  
  &nbsp;
