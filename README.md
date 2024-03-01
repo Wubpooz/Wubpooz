@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m @Wubpooz, a Computer Science student at Paris-Saclay University and this is my little space where I share some projects and courses' assignements ^^  
+Hi, I’m @Wubpooz, a Computer Science student at Polytech Paris-Saclay and this is my little space where I share some projects and courses' assignements.  
 
 <div align="center">
   <a href="https://github.com/Wubpooz">
@@ -10,29 +10,48 @@ Hi, I’m @Wubpooz, a Computer Science student at Paris-Saclay University and th
   -->
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="180em" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Wubpooz&theme=vision-friendly-dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
-    
-&nbsp;    
+ <!-- <img height="180em" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Wubpooz&theme=vision-friendly-dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak"/> -->
+ 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/> 
     
  <!--<img draggable="false" id="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">-->
  
 </div>
-<div style="display: inline_block;" align="center"><br>    <!-- style="background-color: white;" isn't owrking for now since github sanitizes any CSS ; might work in the future -->
+  <div style="display: inline_block;" align="center">
+    <!-- Major -->
+    <br>
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="RDF & SPARQL" height="30" width="40" src="https://cygri.github.io/rdf-logos/svg/rdf.svg" /> <!-- https://cygri.github.io/rdf-logos/svg/sparql.svg -->
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Bash" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" />
+        <!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" -->
+    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
-  <img style="background-color: white;" align="center" alt="LateX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" >
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="background-color: white;" align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
-  <img style="background-color: white;" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img style="background-color: white;" align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="background-color: white;" align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
-  <img style="background-color: white;" align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  
-  
-  <!-- atl icon <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX">-->
+
+  <!-- Secondary and Frameworks -->
+  <br> <br>
+      <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="center" alt="Junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
+    <img align="center" alt="ThreeJs" height="30" width="40" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg">
+    <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" -->
+    <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" />
+    <img align="center" alt="ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+
+  <!-- Softwares -->
+  <br> <br>
+    <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img align="center" alt="LateX" height="30" width="60" src="https://i.stack.imgur.com/AarYf.png" />
+    <!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" -->
 </div> 
  
 
