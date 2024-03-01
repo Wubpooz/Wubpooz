@@ -28,6 +28,8 @@ Hi, I’m @Wubpooz, a Computer Science student at Polytech Paris-Saclay and this
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />      
     <img align="center" alt="Bash" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" />
         <!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" -->
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -40,10 +42,12 @@ Hi, I’m @Wubpooz, a Computer Science student at Polytech Paris-Saclay and this
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="center" alt="Junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
-    <img align="center" alt="ThreeJs" height="30" width="40" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg">
+    <img align="center" alt="ThreeJs" height="30" width="40" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" />
     <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" -->
     <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" />
+    <img align="center" alt="Regex" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/OOjs_UI_icon_regular-expression.svg" />
     <img align="center" alt="ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img align="center" alt="JQuerry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
     <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 
   <!-- Softwares -->
