@@ -42,8 +42,8 @@ Hi, I’m @Wubpooz, a Computer Science student at Polytech Paris-Saclay and this
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="center" alt="Junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
-    <img align="center" alt="ThreeJs" height="30" width="40" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" />
-    <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" -->
+    <!-- <img align="center" alt="ThreeJs" height="30" width="40" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" /> -->
+    <img align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" />
     <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" />
     <img align="center" alt="Regex" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/OOjs_UI_icon_regular-expression.svg" />
     <img align="center" alt="ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
@@ -54,8 +54,8 @@ Hi, I’m @Wubpooz, a Computer Science student at Polytech Paris-Saclay and this
   <br> <br>
     <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img align="center" alt="LateX" height="30" width="60" src="https://i.stack.imgur.com/AarYf.png" />
-    <!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" -->
+    <!-- <img align="center" alt="LateX" height="30" width="60" src="https://i.stack.imgur.com/AarYf.png" /> -->
+    <img align="center" alt="LateX" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
 </div> 
  
 
