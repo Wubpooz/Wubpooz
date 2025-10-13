@@ -152,8 +152,8 @@ A CLI application for finding and sorting houses based on custom criteria
   <!-- GLSL/OpenGL -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg">
-    <img align="center" alt="GLSL/OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg#gh-light-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg">
+    <img align="center" alt="GLSL/OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg#gh-light-mode-only">
   </picture>
   <!-- MATLAB -->
   <picture>
