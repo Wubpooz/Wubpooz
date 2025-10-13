@@ -5,8 +5,11 @@ I'm detail-oriented and analytical, with a strong foundation in applied mathemat
 
 <div align="center">
   <a href="https://github.com/Wubpooz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=default&include_all_commits=true&count_private=true#gh-light-mode-only"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true#gh-dark-mode-only">
+  </picture>
 </div>
 
 &nbsp;
@@ -72,97 +75,178 @@ A CLI application for finding and sorting houses based on custom criteria
 **Design & Methods:** RDF, TDD, Design Patterns, UML, DBMS, Agile/Scrum
 
 <div style="display: inline_block;" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=default">
+    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only">
+  </picture>
   <br><br>
   
   <!-- Major Programming Languages -->
   <!-- Java -->
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg#gh-light-mode-only">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg#gh-light-mode-only">
+  </picture>
   <!-- JavaScript -->
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg#gh-light-mode-only">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg#gh-light-mode-only">
+  </picture>
   <!-- TypeScript -->
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg#gh-light-mode-only">
+  </picture>
   <!-- RDF & SPARQL -->
-  <img align="center" alt="RDF & SPARQL" height="30" width="40" src="https://cygri.github.io/rdf-logos/svg/rdf.svg#gh-light-mode-only" />
-  <img align="center" alt="RDF & SPARQL" height="30" width="40" src="https://cygri.github.io/rdf-logos/svg/rdf.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cygri.github.io/rdf-logos/svg/rdf.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cygri.github.io/rdf-logos/svg/rdf.svg">
+    <img align="center" alt="RDF & SPARQL" height="30" width="40" src="https://cygri.github.io/rdf-logos/svg/rdf.svg#gh-light-mode-only">
+  </picture>
   <!-- C -->
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg#gh-light-mode-only">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Python -->
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-light-mode-only">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-light-mode-only">
+  </picture>
   <!-- OCaml -->
-  <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg#gh-light-mode-only">
-  <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
+    <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg#gh-light-mode-only">
+  </picture>
   <!-- C++ -->
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg#gh-light-mode-only" />
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg#gh-light-mode-only">
+  </picture>
   <!-- SQL -->
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg#gh-light-mode-only" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg#gh-light-mode-only">
+  </picture>
   <!-- OpenGL -->
-  <img align="center" alt="OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg#gh-light-mode-only" />
-  <img align="center" alt="OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg">
+    <img align="center" alt="OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Bash -->
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg#gh-light-mode-only">
+  </picture>
   <!-- PHP -->
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg#gh-light-mode-only" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg#gh-light-mode-only">
+  </picture>
 
   <br><br>
   
   <!-- Frameworks & Tools -->
   <!-- Angular -->
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg#gh-light-mode-only">
+  </picture>
   <!-- HTML -->
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg#gh-light-mode-only">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg#gh-light-mode-only">
+  </picture>
   <!-- CSS -->
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg#gh-light-mode-only">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Git -->
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg#gh-light-mode-only">
+  </picture>
   <!-- JUnit -->
-  <img align="center" alt="Junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg#gh-light-mode-only" />
-  <img align="center" alt="Junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg">
+    <img align="center" alt="Junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg#gh-light-mode-only">
+  </picture>
   <!-- ThreeJS -->
-  <img align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg#gh-light-mode-only" />
-  <img align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
+    <img align="center" alt="ThreeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Karma -->
-  <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg">
+    <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Scikit-learn -->
-  <img align="center" alt="ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg#gh-light-mode-only" />
-  <img align="center" alt="ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+    <img align="center" alt="ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg#gh-light-mode-only">
+  </picture>
   <!-- jQuery -->
-  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg#gh-light-mode-only" />
-  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg">
+    <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg#gh-light-mode-only">
+  </picture>
   <!-- Debian -->
-  <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg#gh-light-mode-only">
-  <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+    <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Docker -->
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg#gh-light-mode-only">
+  </picture>
 
   <br><br>
   
   <!-- Software & Design Tools -->
   <!-- Postman -->
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+    <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg#gh-light-mode-only">
+  </picture>
   <!-- Figma -->
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg#gh-light-mode-only" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg#gh-light-mode-only">
+  </picture>
   <!-- LaTeX -->
-  <img align="center" alt="LaTeX" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg#gh-light-mode-only" />
-  <img align="center" alt="LaTeX" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
+    <img align="center" alt="LaTeX" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg#gh-light-mode-only">
+  </picture>
 </div> 
 
 &nbsp;
