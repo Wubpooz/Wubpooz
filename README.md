@@ -10,14 +10,11 @@ Hi, I'm **Mathieu**, a Computer Science & Applied Mathematics student at **Polyt
 * 🧠 Passionate about NLP, deep learning (PyTorch, Transformers, Speech Synthesis), and high-performance computing.
 * 📐 Backed by a strong foundation in applied mathematics, numerical modeling, and algorithm optimization.
 
-<!-- <div align="center">
-  <a href="https://github.com/Wubpooz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=default&include_all_commits=true&count_private=true">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wubpooz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true#gh-dark-mode-only">
-  </picture>
-</div> -->
+<div align="center">
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api?username=Wubpooz&show_icons=true&include_all_commits=true" alt="Github Stats" />
+</div>
+
 
 &nbsp;
 
@@ -33,14 +30,8 @@ Hi, I'm **Mathieu**, a Computer Science & Applied Mathematics student at **Polyt
 * **Scientific Computing & Methods:** HPC (MPI, OpenMP, CUDA), Distributed Algorithms, SVD/PCA, Graph Theory, ODE/PDE Solving, Quantum Computing (myQLM), Design Patterns, Agile/Scrum, UML, TDD
 
 <br><br>
+
 <div style="display: inline_block;" align="center">
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=default">
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wubpooz&layout=compact&langs_count=7&theme=vision-friendly-dark#gh-dark-mode-only">
-  </picture>
-  <br><br> -->
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -315,6 +306,9 @@ Hi, I'm **Mathieu**, a Computer Science & Applied Mathematics student at **Polyt
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
     <img align="center" alt="LaTeX" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg#gh-light-mode-only">
   </picture>
+
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Wubpooz&layout=compact&langs_count=8&hide_values=true" alt="Github Stats" />
 </div> 
 
 &nbsp;
