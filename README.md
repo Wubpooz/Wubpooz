@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm **Mathieu**, a Computer Science & Applied Mathematics student at **Polytech Paris-Saclay** and a **Fullstack & AI Engineer Apprentice** at **Dassault Systèmes**. 
+Hi, I'm **Mathieu**, a Software Engineer. 
 
 > I build full-stack applications, agentic AI architectures, and scientific simulations. I love well-designed systems, clean interfaces, and the exciting space where software engineering, artificial intelligence, and scientific computation meet.
 
