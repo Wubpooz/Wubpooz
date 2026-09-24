@@ -6,7 +6,7 @@ Hi, I'm **Mathieu**, a Software Engineer.
 
 > I build full-stack applications, agentic AI architectures, and scientific simulations. I love well-designed systems, clean interfaces, and the exciting space where software engineering, artificial intelligence, and scientific computation meet.
 
-* 🚀 Currently engineering robust AI agents, distributed queues, and Model Context Protocol (MCP) systems at Dassault Systèmes.
+* 🚀 Currently engineering robust AI agents, distributed queues, and Model Context Protocol (MCP) systems at work.
 * 🧠 Passionate about NLP, deep learning (PyTorch, Transformers, Speech Synthesis), and high-performance computing.
 * 📐 Backed by a strong foundation in applied mathematics, numerical modeling, and algorithm optimization.
 
